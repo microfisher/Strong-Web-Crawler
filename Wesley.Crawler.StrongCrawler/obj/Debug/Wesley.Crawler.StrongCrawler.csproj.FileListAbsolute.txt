@@ -1,0 +1,13 @@
+E:\开发作品\开发地区\成都\简单爬虫\Strong-Web-Crawler\StrongCrawler\Wesley.Crawler.StrongCrawler\bin\Debug\Wesley.Crawler.StrongCrawler.exe.config
+E:\开发作品\开发地区\成都\简单爬虫\Strong-Web-Crawler\Wesley.Crawler.StrongCrawler\bin\Debug\Wesley.Crawler.StrongCrawler.exe.config
+E:\开发作品\开发地区\成都\简单爬虫\Strong-Web-Crawler\Wesley.Crawler.StrongCrawler\bin\Debug\Wesley.Crawler.StrongCrawler.exe
+E:\开发作品\开发地区\成都\简单爬虫\Strong-Web-Crawler\Wesley.Crawler.StrongCrawler\bin\Debug\Wesley.Crawler.StrongCrawler.pdb
+E:\开发作品\开发地区\成都\简单爬虫\Strong-Web-Crawler\Wesley.Crawler.StrongCrawler\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+E:\开发作品\开发地区\成都\简单爬虫\Strong-Web-Crawler\Wesley.Crawler.StrongCrawler\bin\Debug\ThoughtWorks.Selenium.Core.dll
+E:\开发作品\开发地区\成都\简单爬虫\Strong-Web-Crawler\Wesley.Crawler.StrongCrawler\bin\Debug\WebDriver.dll
+E:\开发作品\开发地区\成都\简单爬虫\Strong-Web-Crawler\Wesley.Crawler.StrongCrawler\bin\Debug\WebDriver.Support.dll
+E:\开发作品\开发地区\成都\简单爬虫\Strong-Web-Crawler\Wesley.Crawler.StrongCrawler\obj\Debug\Wesley.Crawler.StrongCrawler.exe
+E:\开发作品\开发地区\成都\简单爬虫\Strong-Web-Crawler\Wesley.Crawler.StrongCrawler\obj\Debug\Wesley.Crawler.StrongCrawler.pdb
+D:\wwwroot\Demo\Crawler\Wesley.Crawler.StrongCrawler\bin\Debug\Wesley.Crawler.StrongCrawler.exe.config
+D:\wwwroot\Demo\Crawler\Wesley.Crawler.StrongCrawler\obj\Debug\Wesley.Crawler.StrongCrawler.exe
+D:\wwwroot\Demo\Crawler\Wesley.Crawler.StrongCrawler\obj\Debug\Wesley.Crawler.StrongCrawler.pdb
