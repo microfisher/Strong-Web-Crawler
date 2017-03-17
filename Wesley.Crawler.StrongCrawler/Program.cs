@@ -59,8 +59,8 @@ namespace Wesley.Crawler.StrongCrawler
             var hotelName = e.WebDriver.FindElement(By.XPath("//*[@id='J_htl_info']/div[@class='name']/h2[@class='cn_n']")).Text;
             var address = e.WebDriver.FindElement(By.XPath("//*[@id='J_htl_info']/div[@class='adress']")).Text;
             var price = e.WebDriver.FindElement(By.XPath("//*[@id='div_minprice']/p[1]")).Text;
-            var score = e.WebDriver.FindElement(By.XPath("//*[@id='base_bd']/div[4]/div[2]/div[1]/div/a/p[1]/span")).Text;
-            var reviewCount = e.WebDriver.FindElement(By.XPath("//*[@id='base_bd']/div[4]/div[2]/div[1]/div/a/span")).Text;
+            var score = e.WebDriver.FindElement(By.XPath("//*[@id='divCtripComment']/div[1]/div[1]/span[3]/span")).Text;
+            var reviewCount = e.WebDriver.FindElement(By.XPath("//*[@id='commentTab']/a")).Text;
 
             var comments = e.WebDriver.FindElement(By.XPath("//*[@id='hotel_info_comment']/div[@id='commentList']/div[1]/div[1]/div[1]"));
             var currentPage =Convert.ToInt32(comments.FindElement(By.XPath("div[@class='c_page_box']/div[@class='c_page']/div[contains(@class,'c_page_list')]/a[@class='current']")).Text);
