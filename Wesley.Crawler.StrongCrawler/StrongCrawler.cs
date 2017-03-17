@@ -75,12 +75,11 @@ namespace Wesley.Crawler.StrongCrawler
                     var threadId = System.Threading.Thread.CurrentThread.ManagedThreadId;//获取当前任务线程ID
                     var milliseconds = DateTime.Now.Subtract(watch).Milliseconds;//获取请求执行时间;
                     var pageSource = driver.PageSource;//获取网页Dom结构
-                    if (this.OnCompleted != null)
-                        this.OnCompleted(this, new OnCompletedEventArgs(uri, threadId, milliseconds, pageSource, driver));
+                    this.OnCompleted?.Invoke(this, new OnCompletedEventArgs(uri, threadId, milliseconds, pageSource, driver));
                 }
                 catch (Exception ex)
                 {
-                    if (this.OnError != null) this.OnError(this, new OnErrorEventArgs(uri, ex));
+                    this.OnError?.Invoke(this, new OnErrorEventArgs(uri, ex));
                 }
                 finally
                 {
