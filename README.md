@@ -21,12 +21,13 @@
 
 - 抓取城市列表
 
-![抓取酒店数据](https://github.com/coldicelion/Strong-Web-Crawler/blob/master/Wesley.Crawler.StrongCrawler/Resources/1.jpg?raw=true)
+![抓取酒店数据](https://github.com/coldicelion/Strong-Web-Crawler/blob/master/Wesley.Crawler.StrongCrawler/Resources/%E9%85%92%E5%BA%97%E8%AF%84%E8%AE%BA1.PNG)
 
 
 - 抓取酒店列表
 
-![抓取酒店评论](https://github.com/coldicelion/Strong-Web-Crawler/blob/master/Wesley.Crawler.StrongCrawler/Resources/1.jpg?raw=true)
+![抓取酒店评论](
+https://github.com/coldicelion/Strong-Web-Crawler/blob/master/Wesley.Crawler.StrongCrawler/Resources/%E9%85%92%E5%BA%97%E8%AF%84%E8%AE%BA2.PNG)
 
 
 ### 示例代码
