@@ -71,10 +71,4 @@ https://github.com/coldicelion/Strong-Web-Crawler/blob/master/Wesley.Crawler.Str
 
 	
 
-### 技术探讨/联系方式
-
-- QQ号: 276679490
-
-- 爬虫架构讨论群：180085853
-
 
